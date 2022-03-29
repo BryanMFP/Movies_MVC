@@ -1,0 +1,37 @@
+{
+    "sites" : 
+    [
+        {
+            "site" : "",
+            "access" : "public",
+            "role" : ""
+        },
+        {
+            "site" : "main",
+            "access" : "public",
+            "role" : ""
+        },
+        {
+            "site" : "signup",
+            "access" : "public",
+            "role" : ""
+        },
+        {
+            "site" : "principal",
+            "access" : "private",
+            "role" : "2"
+        },
+        {
+            "site" : "movie",
+            "access" : "private",
+            "role" : "2"
+        }
+    ],
+
+    "default-sites":
+    {
+        "2" : "principal",
+        "1" : "admin"
+    }
+    
+}

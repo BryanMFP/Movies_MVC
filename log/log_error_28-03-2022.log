@@ -1,0 +1,579 @@
+[28-Mar-2022 18:40:40 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:40:40 America/Guayaquil] construct
+[28-Mar-2022 18:40:40 America/Guayaquil] init
+[28-Mar-2022 18:40:40 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:40:40 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:40:40 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:40:40 America/Guayaquil] existSession 2
+[28-Mar-2022 18:40:40 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:40 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:40 America/Guayaquil] userid: 1
+[28-Mar-2022 18:40:40 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:40 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:40:40 America/Guayaquil] role 2
+[28-Mar-2022 18:40:40 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:40:40 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:40:40 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:40:40 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:40:40 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:40 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:40:40 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:40:40 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:40:40 America/Guayaquil] 5       1
+[28-Mar-2022 18:40:40 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:40:40 America/Guayaquil] Actual Page nuevo 2
+[28-Mar-2022 18:40:40 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:40:40 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:40:43 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:40:43 America/Guayaquil] construct
+[28-Mar-2022 18:40:43 America/Guayaquil] init
+[28-Mar-2022 18:40:43 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:40:43 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:40:43 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:40:43 America/Guayaquil] existSession 2
+[28-Mar-2022 18:40:43 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:43 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:43 America/Guayaquil] userid: 1
+[28-Mar-2022 18:40:43 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:43 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:40:43 America/Guayaquil] role 2
+[28-Mar-2022 18:40:43 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=1
+[28-Mar-2022 18:40:43 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:40:43 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:40:43 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=1
+[28-Mar-2022 18:40:43 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:43 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:40:43 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:40:43 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:40:43 America/Guayaquil] 5       1
+[28-Mar-2022 18:40:43 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:40:43 America/Guayaquil] Actual Page nuevo 1
+[28-Mar-2022 18:40:43 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:40:43 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:40:54 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:40:54 America/Guayaquil] construct
+[28-Mar-2022 18:40:54 America/Guayaquil] init
+[28-Mar-2022 18:40:54 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:40:54 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:40:54 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:40:54 America/Guayaquil] existSession 2
+[28-Mar-2022 18:40:54 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:54 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:54 America/Guayaquil] userid: 1
+[28-Mar-2022 18:40:54 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:54 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:40:54 America/Guayaquil] role 2
+[28-Mar-2022 18:40:54 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=1
+[28-Mar-2022 18:40:54 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:40:54 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:40:54 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=1
+[28-Mar-2022 18:40:54 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:40:54 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:40:54 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:40:54 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:40:54 America/Guayaquil] 5       1
+[28-Mar-2022 18:40:54 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:40:54 America/Guayaquil] Actual Page nuevo 1
+[28-Mar-2022 18:40:54 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:40:54 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:41:55 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:41:55 America/Guayaquil] construct
+[28-Mar-2022 18:41:55 America/Guayaquil] init
+[28-Mar-2022 18:41:55 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:41:55 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:41:55 America/Guayaquil] existSession 2
+[28-Mar-2022 18:41:55 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:41:55 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:41:55 America/Guayaquil] userid: 1
+[28-Mar-2022 18:41:55 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:41:55 America/Guayaquil] role 2
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:41:55 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:41:55 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:41:55 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:41:55 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:41:55 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:41:55 America/Guayaquil] 5       1
+[28-Mar-2022 18:41:55 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:41:55 America/Guayaquil] Actual Page nuevo 2
+[28-Mar-2022 18:41:55 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:41:55 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:41:55 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:41:55 America/Guayaquil] construct
+[28-Mar-2022 18:41:55 America/Guayaquil] init
+[28-Mar-2022 18:41:55 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:41:55 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:41:55 America/Guayaquil] existSession 2
+[28-Mar-2022 18:41:55 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:41:55 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:41:55 America/Guayaquil] userid: 1
+[28-Mar-2022 18:41:55 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:41:55 America/Guayaquil] role 2
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie
+[28-Mar-2022 18:41:55 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:41:55 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie
+[28-Mar-2022 18:41:55 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:41:55 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:41:55 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:41:55 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:41:55 America/Guayaquil] 5       1
+[28-Mar-2022 18:41:55 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:41:55 America/Guayaquil] Errors::construct -> Inicio de Errores
+[28-Mar-2022 18:41:55 America/Guayaquil] view -> views/errores/index.php
+[28-Mar-2022 18:42:07 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:42:07 America/Guayaquil] construct
+[28-Mar-2022 18:42:07 America/Guayaquil] init
+[28-Mar-2022 18:42:07 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:42:07 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:42:07 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:42:07 America/Guayaquil] existSession 2
+[28-Mar-2022 18:42:07 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:07 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:07 America/Guayaquil] userid: 1
+[28-Mar-2022 18:42:07 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:07 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:42:07 America/Guayaquil] role 2
+[28-Mar-2022 18:42:07 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:42:07 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:42:07 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:42:07 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:42:07 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:07 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:42:07 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:42:07 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:42:07 America/Guayaquil] 5       1
+[28-Mar-2022 18:42:07 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:42:07 America/Guayaquil] Actual Page nuevo 2
+[28-Mar-2022 18:42:07 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:42:07 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:42:27 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:42:27 America/Guayaquil] construct
+[28-Mar-2022 18:42:27 America/Guayaquil] init
+[28-Mar-2022 18:42:27 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:42:27 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:42:27 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:42:27 America/Guayaquil] existSession 2
+[28-Mar-2022 18:42:27 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:27 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:27 America/Guayaquil] userid: 1
+[28-Mar-2022 18:42:27 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:27 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:42:27 America/Guayaquil] role 2
+[28-Mar-2022 18:42:27 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:42:27 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:42:27 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:42:27 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:42:27 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:27 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:42:27 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:42:27 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:42:27 America/Guayaquil] 5       1
+[28-Mar-2022 18:42:27 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:42:27 America/Guayaquil] Actual Page nuevo 2
+[28-Mar-2022 18:42:27 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:42:27 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:42:28 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:42:28 America/Guayaquil] construct
+[28-Mar-2022 18:42:28 America/Guayaquil] init
+[28-Mar-2022 18:42:28 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:42:28 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:42:28 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:42:28 America/Guayaquil] existSession 2
+[28-Mar-2022 18:42:28 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:28 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:28 America/Guayaquil] userid: 1
+[28-Mar-2022 18:42:28 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:28 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:42:28 America/Guayaquil] role 2
+[28-Mar-2022 18:42:28 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[28-Mar-2022 18:42:28 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:42:28 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:42:28 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[28-Mar-2022 18:42:28 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:28 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:42:28 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:42:28 America/Guayaquil] Ralp
+[28-Mar-2022 18:42:28 America/Guayaquil] saveView ->Ralp
+[28-Mar-2022 18:42:28 America/Guayaquil] 1
+[28-Mar-2022 18:42:29 America/Guayaquil] 2
+[28-Mar-2022 18:42:29 America/Guayaquil] 2
+[28-Mar-2022 18:42:29 America/Guayaquil] view -> views/movie/vwmovie.php
+[28-Mar-2022 18:42:34 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:42:34 America/Guayaquil] construct
+[28-Mar-2022 18:42:34 America/Guayaquil] init
+[28-Mar-2022 18:42:34 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:42:34 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:42:34 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:42:34 America/Guayaquil] existSession 2
+[28-Mar-2022 18:42:34 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:34 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:34 America/Guayaquil] userid: 1
+[28-Mar-2022 18:42:34 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:34 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:42:34 America/Guayaquil] role 2
+[28-Mar-2022 18:42:34 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:42:34 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:42:34 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:42:34 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:42:34 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:42:34 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:42:34 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:42:34 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:42:34 America/Guayaquil] 5       1
+[28-Mar-2022 18:42:34 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:42:34 America/Guayaquil] Actual Page nuevo 2
+[28-Mar-2022 18:42:34 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:42:34 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:43:04 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:43:04 America/Guayaquil] construct
+[28-Mar-2022 18:43:04 America/Guayaquil] init
+[28-Mar-2022 18:43:04 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:43:04 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:43:04 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:43:04 America/Guayaquil] existSession 2
+[28-Mar-2022 18:43:04 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:04 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:04 America/Guayaquil] userid: 1
+[28-Mar-2022 18:43:04 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:04 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:43:04 America/Guayaquil] role 2
+[28-Mar-2022 18:43:04 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=1
+[28-Mar-2022 18:43:04 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:43:04 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:43:04 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=1
+[28-Mar-2022 18:43:04 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:04 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:43:04 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:43:04 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:43:04 America/Guayaquil] 5       1
+[28-Mar-2022 18:43:04 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:43:04 America/Guayaquil] Actual Page nuevo 1
+[28-Mar-2022 18:43:04 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:43:04 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:43:06 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:43:06 America/Guayaquil] construct
+[28-Mar-2022 18:43:06 America/Guayaquil] init
+[28-Mar-2022 18:43:06 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:43:06 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:43:06 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:43:06 America/Guayaquil] existSession 2
+[28-Mar-2022 18:43:06 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:06 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:06 America/Guayaquil] userid: 1
+[28-Mar-2022 18:43:06 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:06 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:43:06 America/Guayaquil] role 2
+[28-Mar-2022 18:43:06 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[28-Mar-2022 18:43:06 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:43:06 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:43:06 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[28-Mar-2022 18:43:06 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:06 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:43:06 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:43:06 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:43:08 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:43:08 America/Guayaquil] construct
+[28-Mar-2022 18:43:08 America/Guayaquil] init
+[28-Mar-2022 18:43:08 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:43:08 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:43:08 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:43:08 America/Guayaquil] existSession 2
+[28-Mar-2022 18:43:08 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:08 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:08 America/Guayaquil] userid: 1
+[28-Mar-2022 18:43:08 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:08 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:43:08 America/Guayaquil] role 2
+[28-Mar-2022 18:43:08 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=4
+[28-Mar-2022 18:43:08 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:43:08 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:43:08 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=4
+[28-Mar-2022 18:43:08 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:08 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:43:08 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:43:08 America/Guayaquil] Actual Page nuevo 4
+[28-Mar-2022 18:43:08 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:43:09 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:43:09 America/Guayaquil] construct
+[28-Mar-2022 18:43:09 America/Guayaquil] init
+[28-Mar-2022 18:43:09 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:43:09 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:43:09 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:43:09 America/Guayaquil] existSession 2
+[28-Mar-2022 18:43:09 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:09 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:09 America/Guayaquil] userid: 1
+[28-Mar-2022 18:43:09 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:09 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:43:09 America/Guayaquil] role 2
+[28-Mar-2022 18:43:09 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:43:09 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:43:09 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:43:09 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:43:09 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:43:09 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:43:09 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:43:09 America/Guayaquil] Actual Page nuevo 5
+[28-Mar-2022 18:43:09 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:53:09 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:53:09 America/Guayaquil] construct
+[28-Mar-2022 18:53:09 America/Guayaquil] init
+[28-Mar-2022 18:53:09 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:09 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:09 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:09 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:09 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:09 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:09 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:09 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:09 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:09 America/Guayaquil] role 2
+[28-Mar-2022 18:53:09 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:53:09 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:53:09 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:09 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:53:09 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:09 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:09 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:09 America/Guayaquil] Actual Page nuevo 5
+[28-Mar-2022 18:53:09 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:53:12 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:53:12 America/Guayaquil] construct
+[28-Mar-2022 18:53:12 America/Guayaquil] init
+[28-Mar-2022 18:53:12 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:12 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:12 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:12 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:12 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:12 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:12 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:12 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:12 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:12 America/Guayaquil] role 2
+[28-Mar-2022 18:53:12 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:53:12 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:53:12 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:12 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:53:12 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:12 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:12 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:12 America/Guayaquil] Actual Page nuevo 5
+[28-Mar-2022 18:53:12 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:53:14 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:53:14 America/Guayaquil] construct
+[28-Mar-2022 18:53:14 America/Guayaquil] init
+[28-Mar-2022 18:53:14 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:14 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:14 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:14 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:14 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:14 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:14 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:14 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:14 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:14 America/Guayaquil] role 2
+[28-Mar-2022 18:53:14 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie
+[28-Mar-2022 18:53:14 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:53:14 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:14 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie
+[28-Mar-2022 18:53:14 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:14 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:14 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:53:14 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:53:14 America/Guayaquil] 5       1
+[28-Mar-2022 18:53:14 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:14 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:53:14 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:53:18 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:53:18 America/Guayaquil] construct
+[28-Mar-2022 18:53:18 America/Guayaquil] init
+[28-Mar-2022 18:53:18 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:18 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:18 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:18 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:18 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:18 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:18 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:18 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:18 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:18 America/Guayaquil] role 2
+[28-Mar-2022 18:53:18 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:53:18 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:53:18 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:18 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=2
+[28-Mar-2022 18:53:18 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:18 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:18 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:53:18 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:53:18 America/Guayaquil] 5       1
+[28-Mar-2022 18:53:18 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:18 America/Guayaquil] Actual Page nuevo 2
+[28-Mar-2022 18:53:18 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:53:18 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:53:19 America/Guayaquil] url 0 -> movie
+[28-Mar-2022 18:53:19 America/Guayaquil] construct
+[28-Mar-2022 18:53:19 America/Guayaquil] init
+[28-Mar-2022 18:53:19 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:19 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:19 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:19 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:19 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:19 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:19 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:19 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:19 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:19 America/Guayaquil] role 2
+[28-Mar-2022 18:53:19 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=1
+[28-Mar-2022 18:53:19 America/Guayaquil] currentURL movie
+[28-Mar-2022 18:53:19 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:19 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie?page=1
+[28-Mar-2022 18:53:19 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:19 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:19 America/Guayaquil] movie -> 1
+[28-Mar-2022 18:53:19 America/Guayaquil] iduser count -> 1
+[28-Mar-2022 18:53:19 America/Guayaquil] 5       1
+[28-Mar-2022 18:53:19 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:19 America/Guayaquil] Actual Page nuevo 1
+[28-Mar-2022 18:53:19 America/Guayaquil] entra al render movie
+[28-Mar-2022 18:53:19 America/Guayaquil] view -> views/movie/index.php
+[28-Mar-2022 18:53:38 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:53:38 America/Guayaquil] construct
+[28-Mar-2022 18:53:38 America/Guayaquil] init
+[28-Mar-2022 18:53:38 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:38 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:38 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:38 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:38 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:38 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:38 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:38 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:38 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:38 America/Guayaquil] role 2
+[28-Mar-2022 18:53:38 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[28-Mar-2022 18:53:38 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:53:38 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:38 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[28-Mar-2022 18:53:38 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:38 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:38 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:38 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:53:39 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:53:39 America/Guayaquil] construct
+[28-Mar-2022 18:53:39 America/Guayaquil] init
+[28-Mar-2022 18:53:39 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:39 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:39 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:39 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:39 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:39 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:39 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:39 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:39 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:39 America/Guayaquil] role 2
+[28-Mar-2022 18:53:39 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=2
+[28-Mar-2022 18:53:39 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:53:39 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:39 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=2
+[28-Mar-2022 18:53:39 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:39 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:39 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:39 America/Guayaquil] Actual Page nuevo 2
+[28-Mar-2022 18:53:39 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:53:40 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:53:40 America/Guayaquil] construct
+[28-Mar-2022 18:53:40 America/Guayaquil] init
+[28-Mar-2022 18:53:40 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:40 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:40 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:40 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:40 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:40 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:40 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:40 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:40 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:40 America/Guayaquil] role 2
+[28-Mar-2022 18:53:40 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=4
+[28-Mar-2022 18:53:40 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:53:40 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:40 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=4
+[28-Mar-2022 18:53:40 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:40 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:40 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:40 America/Guayaquil] Actual Page nuevo 4
+[28-Mar-2022 18:53:40 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:53:41 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:53:41 America/Guayaquil] construct
+[28-Mar-2022 18:53:41 America/Guayaquil] init
+[28-Mar-2022 18:53:41 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:53:41 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:53:41 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:53:41 America/Guayaquil] existSession 2
+[28-Mar-2022 18:53:41 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:41 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:41 America/Guayaquil] userid: 1
+[28-Mar-2022 18:53:41 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:41 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:41 America/Guayaquil] role 2
+[28-Mar-2022 18:53:41 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:53:41 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:53:41 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:53:41 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:53:41 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:53:41 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:53:41 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:53:41 America/Guayaquil] Actual Page nuevo 5
+[28-Mar-2022 18:53:41 America/Guayaquil] view -> views/principal/index.php
+[28-Mar-2022 18:54:22 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:54:22 America/Guayaquil] construct
+[28-Mar-2022 18:54:22 America/Guayaquil] init
+[28-Mar-2022 18:54:22 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:54:22 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:54:22 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:54:22 America/Guayaquil] existSession 2
+[28-Mar-2022 18:54:22 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:54:22 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:54:22 America/Guayaquil] userid: 1
+[28-Mar-2022 18:54:22 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:54:22 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:54:22 America/Guayaquil] role 2
+[28-Mar-2022 18:54:22 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[28-Mar-2022 18:54:22 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:54:22 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:54:22 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[28-Mar-2022 18:54:22 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:54:22 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:54:22 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:54:22 America/Guayaquil] Dog_Island
+[28-Mar-2022 18:54:22 America/Guayaquil] saveView ->Dog_Island
+[28-Mar-2022 18:54:22 America/Guayaquil] 1
+[28-Mar-2022 18:54:22 America/Guayaquil] 1
+[28-Mar-2022 18:54:22 America/Guayaquil] view -> views/movie/vwmovie.php
+[28-Mar-2022 18:54:28 America/Guayaquil] url 0 -> principal
+[28-Mar-2022 18:54:28 America/Guayaquil] construct
+[28-Mar-2022 18:54:28 America/Guayaquil] init
+[28-Mar-2022 18:54:28 America/Guayaquil] getjsonfileconfig
+[28-Mar-2022 18:54:28 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[28-Mar-2022 18:54:28 America/Guayaquil] existsSession 1
+[28-Mar-2022 18:54:28 America/Guayaquil] existSession 2
+[28-Mar-2022 18:54:28 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:54:28 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:54:28 America/Guayaquil] userid: 1
+[28-Mar-2022 18:54:28 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:54:28 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:54:28 America/Guayaquil] role 2
+[28-Mar-2022 18:54:28 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:54:28 America/Guayaquil] currentURL principal
+[28-Mar-2022 18:54:28 America/Guayaquil] entrar al for, no pasa condiciones
+[28-Mar-2022 18:54:28 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal?page=5
+[28-Mar-2022 18:54:28 America/Guayaquil] getCurrentUser
+[28-Mar-2022 18:54:28 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[28-Mar-2022 18:54:28 America/Guayaquil] entra al metodo caculatePage
+[28-Mar-2022 18:54:28 America/Guayaquil] Actual Page nuevo 5
+[28-Mar-2022 18:54:28 America/Guayaquil] view -> views/principal/index.php
