@@ -4,27 +4,42 @@
         {
             "site" : "",
             "access" : "public",
-            "role" : ""
+            "role" : 
+            [
+                ""
+            ]
         },
         {
             "site" : "main",
             "access" : "public",
-            "role" : ""
+            "role" : 
+            [
+                ""
+            ]
         },
         {
             "site" : "signup",
             "access" : "public",
-            "role" : ""
+            "role" : 
+            [
+                ""
+            ]
         },
         {
             "site" : "principal",
             "access" : "private",
-            "role" : "2"
+            "role" : 
+            [
+                "2"
+            ]
         },
         {
             "site" : "movie",
             "access" : "private",
-            "role" : "2"
+            "role" : 
+            [
+                "2"
+            ]
         }
     ],
 

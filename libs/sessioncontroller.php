@@ -150,10 +150,13 @@ class SessionController extends Controller
         $url = '';
         for ($i=0; $i < sizeof($this->sites) ; $i++) 
         { 
-            if ($this->sites[$i]['role'] == $role) 
-            {
-                $url = $this->sites[$i]['site'];
-                break;
+            for ($j=0; $j < sizeof($this->sites[$i]['role']) ; $j++)
+            { 
+                if ($this->sites[$i]['role'][$j] == $role) 
+                {
+                    $url = $this->sites[$i]['site'];
+                    break;
+                }
             }
         }
 
@@ -168,9 +171,12 @@ class SessionController extends Controller
 
         for ($i=0; $i < sizeof($this->sites) ; $i++) 
         {
-            if ($currentURL == $this->sites[$i]['site'] && $this->sites[$i]['role'] == $role) 
-            {
-                return true;
+            for ($j=0; $j < sizeof($this->sites[$i]['role']); $j++)
+            { 
+                if ($currentURL == $this->sites[$i]['site'] && $this->sites[$i]['role'][$j] == $role) 
+                {
+                    return true;
+                }
             }
         }
 

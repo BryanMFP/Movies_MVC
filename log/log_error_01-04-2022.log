@@ -1,0 +1,46 @@
+[01-Apr-2022 17:29:49 America/Guayaquil] url 0 -> principal
+[01-Apr-2022 17:29:49 America/Guayaquil] construct
+[01-Apr-2022 17:29:49 America/Guayaquil] init
+[01-Apr-2022 17:29:49 America/Guayaquil] getjsonfileconfig
+[01-Apr-2022 17:29:49 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[01-Apr-2022 17:29:49 America/Guayaquil] existsSession 1
+[01-Apr-2022 17:29:49 America/Guayaquil] existSession 2
+[01-Apr-2022 17:29:49 America/Guayaquil] getCurrentUser
+[01-Apr-2022 17:29:49 America/Guayaquil] getCurrentUser
+[01-Apr-2022 17:29:49 America/Guayaquil] userid: 1
+[01-Apr-2022 17:29:49 America/Guayaquil] getCurrentUser
+[01-Apr-2022 17:29:49 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[01-Apr-2022 17:29:49 America/Guayaquil] role 2
+[01-Apr-2022 17:29:49 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[01-Apr-2022 17:29:49 America/Guayaquil] currentURL principal
+[01-Apr-2022 17:29:49 America/Guayaquil] entrar al for, no pasa condiciones
+[01-Apr-2022 17:29:49 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> principal
+[01-Apr-2022 17:29:49 America/Guayaquil] getCurrentUser
+[01-Apr-2022 17:29:49 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[01-Apr-2022 17:29:49 America/Guayaquil] entra al metodo caculatePage
+[01-Apr-2022 17:29:49 America/Guayaquil] view -> views/principal/index.php
+[01-Apr-2022 17:29:56 America/Guayaquil] url 0 -> movie
+[01-Apr-2022 17:29:56 America/Guayaquil] construct
+[01-Apr-2022 17:29:56 America/Guayaquil] init
+[01-Apr-2022 17:29:56 America/Guayaquil] getjsonfileconfig
+[01-Apr-2022 17:29:56 America/Guayaquil] SESSIONCONTROLLER::validateSession
+[01-Apr-2022 17:29:56 America/Guayaquil] existsSession 1
+[01-Apr-2022 17:29:56 America/Guayaquil] existSession 2
+[01-Apr-2022 17:29:56 America/Guayaquil] getCurrentUser
+[01-Apr-2022 17:29:56 America/Guayaquil] getCurrentUser
+[01-Apr-2022 17:29:56 America/Guayaquil] userid: 1
+[01-Apr-2022 17:29:56 America/Guayaquil] getCurrentUser
+[01-Apr-2022 17:29:56 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[01-Apr-2022 17:29:56 America/Guayaquil] role 2
+[01-Apr-2022 17:29:56 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie
+[01-Apr-2022 17:29:56 America/Guayaquil] currentURL movie
+[01-Apr-2022 17:29:56 America/Guayaquil] entrar al for, no pasa condiciones
+[01-Apr-2022 17:29:56 America/Guayaquil] SESSIONCONTROLLER::GETCurrentPage -> movie
+[01-Apr-2022 17:29:56 America/Guayaquil] getCurrentUser
+[01-Apr-2022 17:29:56 America/Guayaquil] SESSIONCONTROLLER::getUserSessionData -> 1
+[01-Apr-2022 17:29:56 America/Guayaquil] movie -> 1
+[01-Apr-2022 17:29:56 America/Guayaquil] iduser count -> 1
+[01-Apr-2022 17:29:57 America/Guayaquil] 6       1
+[01-Apr-2022 17:29:57 America/Guayaquil] entra al metodo caculatePage
+[01-Apr-2022 17:29:57 America/Guayaquil] entra al render movie
+[01-Apr-2022 17:29:57 America/Guayaquil] view -> views/movie/index.php

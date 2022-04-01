@@ -1,9 +1,10 @@
 <?php
 
-class Model
+class Model extends PagesD
 {
     public function __construct() 
     {
+        parent::__construct();
         $this->db = new DB();
     }
 
